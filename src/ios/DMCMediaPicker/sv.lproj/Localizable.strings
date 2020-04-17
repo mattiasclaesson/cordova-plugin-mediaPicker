@@ -1,0 +1,12 @@
+"Cancel"="Ångra";
+"Done"="Klar";
+"All"="Alla bilder";
+"Video"="Video";
+"ok"="OK";
+"maxSelectAlert"="Du kan maximalt välja %d antal bilder";
+"maxSizeAlert"="Du kan maximalt välja bilder upp till %.02f mb i storlek";
+"Unable to access album" = "Åtkomst till bilder nekad";
+"Please allow to access your album" = "Tillåt åtkomst till bilder i \"Inställningar -> Integritet -> Bilder\"";
+"Setting" = "Inställningar";
+"Preview" = "Förhandsgranska";
+"photo_download_failed" = "Fel vid nedladdning av valda bilder från iCloud. Detta kan beror på dålig internet uppkoppling. Kontrollera din internet uppkoppling och försök igen!";
